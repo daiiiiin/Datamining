@@ -4,7 +4,7 @@ project
 ## 1. Overview
 This project is an individual assignment for the "Data Mining" class. This project analyzes one of the most popular data sets in Kaggle, 'Heart failure', by performing various data mining techniques covered in the class. The idea of this project is to apply various data mining techniques to the data to understand how each column is affecting the target variable (in this case, the target variable is the presence of heart disease).  
 
-## 2. project
+## 2. Project
 There are two pieces of code in the project folder. One is the work I did for midterm presentation, and the other is the work I did for final presentation. I'll introduce the project in two tasks.
 - first.ipynb
   - In this task, we first learn about the dataset. What variables are present, and since the data set is about medicine, we'll briefly identify what each variable is called and what it means in its field. Here are the names of the variables as they appear in the dataset.  
